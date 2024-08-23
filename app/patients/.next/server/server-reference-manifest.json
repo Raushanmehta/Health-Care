@@ -1,0 +1,174 @@
+{
+  "node": {
+    "248bcb02afc31da2e1a29e4cdc7e71a9711f5ff9": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "rsc"
+      }
+    },
+    "4bfd9c6ff335de0dc83cddb9c3f84229784dc82d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "rsc"
+      }
+    },
+    "524eab761758f10ba021d79b0d43f1172e97a4ab": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "rsc"
+      }
+    },
+    "5fa615391bd2cc6e38671f20232367f911a99cad": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "rsc"
+      }
+    },
+    "696871fe20d8f1edadc5b2513df044c7b8af4e4e": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "rsc"
+      }
+    },
+    "9f85712913be97470edd13a2b16d0162de91162f": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "rsc"
+      }
+    },
+    "cc25c23ac0f9c0fd0b03ef57d43100f838b747b6": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "rsc"
+      }
+    },
+    "dd1a6e8750135aaac39e02a1b97e5b3e7c1bb415": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/register/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cpatient.actions.ts%22%2C%5B%22getPatient%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%2C%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/patients/[userId]/register/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "rsc"
+      }
+    },
+    "5b292ee26719c72bcc684ec38cb535b324f96491": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/new-appointment/success/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "action-browser",
+        "app/patients/[userId]/new-appointment/success/page": "rsc"
+      }
+    },
+    "824bacab6644414f7feb58e23a1b483ec1be8a7b": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/new-appointment/success/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "action-browser",
+        "app/patients/[userId]/new-appointment/success/page": "rsc"
+      }
+    },
+    "97a0c38964b35008fd9e2d902012c4b007eafe1b": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/new-appointment/success/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "action-browser",
+        "app/patients/[userId]/new-appointment/success/page": "rsc"
+      }
+    },
+    "b331f90f9c4ea08b07f9432e8208575099fd6f7a": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/new-appointment/success/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "action-browser",
+        "app/patients/[userId]/new-appointment/success/page": "rsc"
+      }
+    },
+    "c35a9ce5abd867c3bcde87b0f6391aa2db74dabb": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/new-appointment/success/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "action-browser",
+        "app/patients/[userId]/new-appointment/success/page": "rsc"
+      }
+    },
+    "d9c07e6082e0de94f1bf5cc8c88c2020e6c2518a": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/patients/[userId]/new-appointment/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!",
+        "app/patients/[userId]/new-appointment/success/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CCODDING%5C%5CNEXT.JS%5C%5CNEXT.JS%5C%5Chealthcare%5C%5Chealthcare%5C%5Clib%5C%5Cactions%5C%5Cappointment.actions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22getAppointment%22%2C%22%24%24ACTION_0%22%2C%22getRecentAppointmentList%22%2C%22createAppointment%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc",
+        "app/patients/[userId]/new-appointment/page": "action-browser",
+        "app/patients/[userId]/new-appointment/success/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Z2qXTpVeFZGtvnI0JGmrLpauVJcxPtd9vSmoGkJASl4="
+}
