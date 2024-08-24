@@ -65,15 +65,27 @@ export const getRecentAppointmentList = async () => {
       },
       initialCounts
     );
- 
-     const data = {
-      totalCount : appointment.total,
-      ...counts,
-      document: appointment.documents
-     }
-     return parseStringify(data);
 
+    const data = {
+      totalCount: appointment.total,
+      ...counts,
+      document: appointment.documents,
+    };
+    return parseStringify(data);
   } catch (error) {
     console.log(error);
   }
 };
+
+export const updateAppointment = async({
+  userId,
+  appointmentId,
+  appointment,
+  type,
+}:UpdateAppointmentParams)=>{
+  try {
+    
+  } catch (error) {
+    
+  }
+}
