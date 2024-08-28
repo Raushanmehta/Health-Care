@@ -23,7 +23,7 @@ export default function Home({searchParams}: SearchParamProps) {
           © 2024 Medanta
 
             </p>
-            <Link href={"/?admin=true"} className="text-green-500">Admin</Link>
+            <Link href={"/?admin=true"} className="text-orange-400">Admin</Link>
           </div >
         </div>
       </section>
