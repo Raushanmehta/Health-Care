@@ -75,7 +75,7 @@ export const registerPatient = async ({
   ...patient
 }: RegisterUserParams) => {
   try {
-    // console.log("registerPatient - userId:", userId); // Log userId
+    console.log("registerPatient - userId:", userId); // Log userId
 
     let file;
     if (identificationDocument) {
@@ -96,7 +96,7 @@ export const registerPatient = async ({
       ...patient,
     };
 
-    // console.log("registerPatient - patientData:", patientData);
+    console.log("registerPatient - patientData:", patientData);
 
     const newPatient = await database.createDocument(
       DATABASE_ID!,
